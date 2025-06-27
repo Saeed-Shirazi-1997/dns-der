@@ -27,7 +27,7 @@ A cross-platform Python script to easily change DNS settings with a user-friendl
 - On Linux: `network-manager` and `nmcli`
 - On Windows: Administrative privileges
 
-### Method 1: Direct Download
+### Method 1: Download from GitHub
 ```bash
 git clone https://raw.githubusercontent.com/yourusername/dns-changer/main/dns_changer.py
 sudo chmod +x dns_changer.py
