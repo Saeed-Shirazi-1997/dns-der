@@ -29,5 +29,5 @@ A cross-platform Python script to easily change DNS settings with a user-friendl
 
 ### Method 1: Direct Download
 ```bash
-git clone https://raw.githubusercontent.com/yourusername/dns-changer/main/dns_changer.py](https://github.com/Saeed-Shirazi-1997/dns-der.git
-chmod +x dns_changer.py
+git clone https://raw.githubusercontent.com/yourusername/dns-changer/main/dns_changer.py
+sudo chmod +x dns_changer.py
